@@ -55,7 +55,7 @@ import logo from '../assets/logo.png'
 const router = useRouter()
 
 const login = () => {
-  router.push('/task')
+  router.push('/dashboard')
 }
 
 </script>
